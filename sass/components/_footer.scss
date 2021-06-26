@@ -6,11 +6,11 @@
   color: $white-color;
 }
 
-.page-footer__box {
+.container--flex {
   display: flex;
 }
 
-.page-footer__logo {
+.logo--footer {
   display: inline-block;
   margin-bottom: 20px;
 
@@ -45,7 +45,7 @@
   line-height: 1.14;
   text-transform: uppercase;
 }
-.social__list {
+.social {
   display: flex;
 }
 .social__item:not(:last-child) {
